@@ -1,6 +1,5 @@
-<h1>
-  MAMA's Gatsby default starter (based on Gatsby's starter default)
-</h1>
+##MAMA's Gatsby default starter 
+(based on Gatsby's starter default)
 
 ##Development
 
