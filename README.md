@@ -1,4 +1,4 @@
-##MAMA's Gatsby default starter 
+# MAMA's Gatsby default starter 
 (based on Gatsby's starter default)
 
 ##Development
@@ -7,7 +7,7 @@
 
 The site is now running at `http://localhost:8000`! And GraphQL can be tested at `http://localhost:8000/___graphql`_.
 
-##Production
+## Production
 		
     gatsby build
 
