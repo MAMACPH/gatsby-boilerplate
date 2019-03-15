@@ -1,6 +1,8 @@
 # MAMA's Gatsby default starter 
 (based on Gatsby's starter default)
 
+Clone the repo and follow the steps below.
+
 ## Development
 
     gatsby develop
